@@ -1,0 +1,10 @@
+name: PiglinKiller # the name of the plugin.
+
+version: 5.0.0 # the version of the plugin.
+
+main: ma.saj.piglinkiller.Main # the main class of the plugin.
+
+commands:
+   kp:
+      description: This is the Piglin killer!
+      usage: /<command>
