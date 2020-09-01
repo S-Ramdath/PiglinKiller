@@ -1,8 +1,12 @@
 # PiglinKiller
-A minecraft plugin for 1.16.2 server designed to kill piglins.
+A minecraft plugin for 1.16.2 spigot server designed to kill piglins.
 
 # How to use?
-Do /kp to kill all piglins.
+Do /kp to kill all piglins (in the player's current world).
+Servers (console users) cannot use this command.
+
+# NOTE:
+This plugin does not affect piglin brutes and zombified piglins.
 
 # The folder "ma.saj.piglinkiller" is the project folder from the Eclipse IDE working directory.
 
