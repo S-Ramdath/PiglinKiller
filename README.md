@@ -11,5 +11,5 @@ Do /kp to kill all piglins.
 # I used code from this plugin:
 https://dev.bukkit.org/projects/killallmobs
 
-# I used this java decompiler:
-(Link coming soon!)
+# I used this java decompiler (JD-GUI):
+http://java-decompiler.github.io/
