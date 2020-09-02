@@ -1,8 +1,10 @@
 name: PiglinKiller # the name of the plugin.
 
-version: 5.0.0 # the version of the plugin.
+version: 5.0.1 # the version of the plugin.
 
 main: ma.saj.piglinkiller.Main # the main class of the plugin.
+
+api-version: "1.16"
 
 commands:
    kp:
