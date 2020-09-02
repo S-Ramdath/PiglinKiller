@@ -18,7 +18,9 @@ config.yml can be modified to include any other mobs that you want to kill too.
 https://dev.bukkit.org/projects/killallmobs
 ## Java decompiler (JD-GUI):
 http://java-decompiler.github.io/
-## Plugin Tutorial - Official BukkitWiki:
-https://bukkit.gamepedia.com/Plugin_Tutorial
+## spigot-1.16.2.jar:
+https://getbukkit.org/download/spigot
 ## How to make a Spigot/Bukkit Plugin:
 https://www.spigotmc.org/threads/how-to-make-a-spigot-bukkit-plugin.375559/
+## Plugin Tutorial - Official BukkitWiki:
+https://bukkit.gamepedia.com/Plugin_Tutorial
