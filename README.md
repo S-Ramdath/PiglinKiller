@@ -5,9 +5,6 @@ A minecraft plugin for 1.16.2 spigot servers designed to kill piglins alone.
 Do /kp to kill all piglins (in the player's current world).
 Servers (console users) cannot use this command.
 
-# Where to get?
-See "Releases" section for all available versions.
-
 # NOTE:
 This plugin does not affect piglin brutes and zombified piglins.
 
